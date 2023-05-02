@@ -527,16 +527,7 @@ align-items: baseline;
     align-items:baseline;
     height: auto;
   }
-  .icon {
-    width: 33.3%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    flex-wrap: nowrap;
-    margin-right: 15px;
-    margin-left: 15px;
-  
-  }
+
   .card-icon {
       width: 60px;
       height: 60px;
