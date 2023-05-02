@@ -527,6 +527,15 @@ align-items: baseline;
     align-items:baseline;
     height: auto;
   }
+  
+  .icon {
+    width: 33.3%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
 
   .card-icon {
       width: 60px;
@@ -534,6 +543,7 @@ align-items: baseline;
       background-color: #ffA200;
       border-radius: 50%;
       display: flex;
+      flex-direction: column;
       justify-content: center;
       align-items: center;
   
