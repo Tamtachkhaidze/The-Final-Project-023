@@ -530,9 +530,10 @@ align-items: baseline;
   
   .icon {
     width: 33.3%;
+    height: auto;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: baseline;
     justify-content: center;
   }
 
